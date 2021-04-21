@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-19 17:20:13
- * @LastEditTime: 2021-04-19 18:28:49
+ * @LastEditTime: 2021-04-21 16:41:43
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/http.https.md
@@ -192,6 +192,6 @@
 
 ## 总结HTTPS和HTTP的区别
 
-- `HTTPS` 是 `HTTP` 协议的 **安全版本** ， `HTTP` 协议的数据传输是明文的，是不安全的， `HTTPS` 使用了 `SSL/TLS` 协议进行了** 加密处理** 。
+- `HTTPS` 是 `HTTP` 协议的 **安全版本** ， `HTTP` 协议的数据传输是明文的，是不安全的， `HTTPS` 使用了 `SSL/TLS` 协议进行了 **加密处理** 。
 
 - `HTTP` 和 `HTTPS` 使用连接方式不同，默认端口也不一样， `HTTP` 是 **80** ， `HTTPS` 是 **443** 。
