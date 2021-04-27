@@ -36,6 +36,17 @@ pre {
   font-size: 14px !important;
 }
 
+.lang-text{
+  background-color: rgb(40, 44, 52) !important;
+  margin-top: -20px !important;
+  color: #f8f8f8 !important;
+  font-variant-ligatures: contextual !important;
+  -webkit-tap-highlight-color: transparent !important;
+  font-feature-settings: "calt" !important;
+  font-family: Hack, monospace !important;
+  font-size: 14px !important;
+}
+
 .lang-js span {
   font-variant-ligatures: contextual;
   -webkit-tap-highlight-color: transparent;

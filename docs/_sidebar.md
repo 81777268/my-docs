@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-04-22 16:13:34
+ * @LastEditTime: 2021-04-26 11:05:58
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -18,6 +18,8 @@
   - [迅速搞懂http和https](http&https.md)
   - [tcp的三握四挥](tcp.md)
   - [tcp和udp的区别](tcp&udp.md)
+  - [http报文头部的字段及其意义](46926484.md)
+  - [http报文头和浏览器的强弱缓存关系](6047613.md)
 
 - 框架
   - [如何看待前端框架选型](81461207.md)
