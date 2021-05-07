@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-04-26 11:05:58
+ * @LastEditTime: 2021-04-28 15:06:05
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -31,6 +31,8 @@
 - React
   - [virtual DOM与diff算法](8943802.md)
 
-
 - Node
   - [EventEmitter 简单实现](96364926.md)
+
+- 移动端
+  - [移动端高清适配方案](103841964.md)

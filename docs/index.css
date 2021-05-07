@@ -25,15 +25,15 @@ pre {
   background-color: #282c34 !important;
 }
 
-.lang-js, .lang-html, .lang-sh {
+.lang-js, .lang-html, .lang-sh, .lang-css {
   background-color: rgb(40, 44, 52) !important;
-  margin-top: -20px !important;
   color: #e06c75 !important;
   font-variant-ligatures: contextual !important;
   -webkit-tap-highlight-color: transparent !important;
   font-feature-settings: "calt" !important;
   font-family: Hack, monospace !important;
   font-size: 14px !important;
+  padding-top: 0em !important;
 }
 
 .lang-text{
