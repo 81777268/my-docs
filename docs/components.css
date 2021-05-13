@@ -6,9 +6,19 @@
     font-weight: bold !important;
 }
 
+.Alert--point {
+    background-color: rgb(235,248,255) !important;
+}
+
 .Alert code {
     background-color: #feebc8 !important;
     color: #9c4221 !important;
+    border-radius: 7px;
+}
+
+.Alert--point code {
+    background-color: rgb(190,227,248) !important;
+    color: rgba(44,82,130) !important;
     border-radius: 7px;
 }
 
