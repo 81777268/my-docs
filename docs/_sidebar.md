@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-05-11 17:11:54
+ * @LastEditTime: 2021-05-20 14:53:45
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -26,6 +26,7 @@
   - [tcp和udp的区别](642073242.md)
   - [http报文头部的字段及其意义](46926484.md)
   - [http报文头和浏览器的强弱缓存关系](6047613.md)
+  - [常见的HTTP状态码](380476924.md)
 
 - 框架
   - [如何看待前端框架选型](81461207.md)
@@ -35,9 +36,19 @@
 
 - React
   - [virtual DOM与diff算法](8943802.md)
+  - [diff 时间复杂度从 O(n^3) 优化到 O(n) ](6406947234.md)
 
 - Node
   - [EventEmitter 简单实现](96364926.md)
 
 - 移动端
   - [移动端高清适配方案](103841964.md)
+
+- 音视频
+  - [音视频大小的计算方式](402742734.md)
+  - [流媒体](962836925.md)
+
+- 工程化
+  - [Tree-Shaking性能优化](684647234.md)
+  - [require和import的区别](7203470234.md)
+
