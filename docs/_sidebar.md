@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-05-20 14:53:45
+ * @LastEditTime: 2021-05-21 14:31:16
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -19,6 +19,7 @@
 
 - JS
   - [JavaScript面向对象实现](7697492387.md)
+  - [JavaScript的数据类型](309476933.md)
 
 - HTTP和HTTPS
   - [迅速搞懂http和https](697023424.md)
