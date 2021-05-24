@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-05-21 14:31:16
+ * @LastEditTime: 2021-05-24 15:31:51
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -20,6 +20,7 @@
 - JS
   - [JavaScript面向对象实现](7697492387.md)
   - [JavaScript的数据类型](309476933.md)
+  - [字符串和字符串对象的区别](423522352.md)
 
 - HTTP和HTTPS
   - [迅速搞懂http和https](697023424.md)
@@ -44,6 +45,8 @@
 
 - 移动端
   - [移动端高清适配方案](103841964.md)
+  - [首页白屏优化实践](96429643.md)
+  
 
 - 音视频
   - [音视频大小的计算方式](402742734.md)
