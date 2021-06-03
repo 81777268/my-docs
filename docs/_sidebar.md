@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-05-24 15:31:51
+ * @LastEditTime: 2021-06-02 17:57:27
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -23,6 +23,8 @@
   - [字符串和字符串对象的区别](423522352.md)
   - [Generator 函数](60234702.md)
   - [简单实现斐波那契数列](92348923.md)
+  - [数组去重](65386923.md)
+  - [JS中的DOM](296494422.md)
 
 - HTTP和HTTPS
   - [迅速搞懂http和https](697023424.md)
@@ -57,4 +59,5 @@
 - 工程化
   - [Tree-Shaking性能优化](684647234.md)
   - [require和import的区别](7203470234.md)
+  - [顶层 await](69273403.md)
 
