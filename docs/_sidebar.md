@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-06-02 17:57:27
+ * @LastEditTime: 2021-06-04 11:11:23
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -46,6 +46,7 @@
 
 - Node
   - [EventEmitter 简单实现](96364926.md)
+  - [v8内存管理和垃圾回收机制](926348643.md)
 
 - 移动端
   - [移动端高清适配方案](103841964.md)

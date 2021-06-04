@@ -10,6 +10,11 @@ body {
   margin-top: 14px;
 }
 
+.docsify-copy-code-button{
+  background-color: red !important;
+  border-radius: 5px !important;
+}
+
 code {
   color: #d63200 !important;
   background-color: #f8f8f8 !important;
