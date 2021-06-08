@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-06-04 11:11:23
+ * @LastEditTime: 2021-06-07 14:57:29
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -10,12 +10,14 @@
   - [不同内核浏览器的差异](4234234234.md)
   - [从URL开始 发生了什么？](92364928.md)
   - [浏览器的事件](6265435.md)
+  - [JS浏览器事件循环机制](1969836432.md)
 
 - 工具
   - [Webpack的组成部分详解](6958275945.md)
     
 - CSS
   - [首次绘制的一系列动作](92645987593.md)
+  - [BFC](29349834.md)
 
 - JS
   - [JavaScript面向对象实现](7697492387.md)
@@ -47,6 +49,7 @@
 - Node
   - [EventEmitter 简单实现](96364926.md)
   - [v8内存管理和垃圾回收机制](926348643.md)
+  - [Nodejs定时任务](546923864.md)
 
 - 移动端
   - [移动端高清适配方案](103841964.md)
@@ -61,4 +64,6 @@
   - [Tree-Shaking性能优化](684647234.md)
   - [require和import的区别](7203470234.md)
   - [顶层 await](69273403.md)
+  - [前端异常捕获与上报](65934922.md)
+  - [监控指标](9462942.md)
 
