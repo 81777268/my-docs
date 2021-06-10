@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-06-07 14:57:29
+ * @LastEditTime: 2021-06-09 10:42:44
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -50,6 +50,7 @@
   - [EventEmitter 简单实现](96364926.md)
   - [v8内存管理和垃圾回收机制](926348643.md)
   - [Nodejs定时任务](546923864.md)
+  - [Nodejs EventLoop](6598658345.md)
 
 - 移动端
   - [移动端高清适配方案](103841964.md)
