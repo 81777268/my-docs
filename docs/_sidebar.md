@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-06-09 10:42:44
+ * @LastEditTime: 2021-06-10 11:16:31
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -41,6 +41,7 @@
 
 - Vue
   - [尝试理解Vue的双向绑定](11077628.md)
+  - [Vue3.x不再使用defineProperty](462965322.md)
 
 - React
   - [virtual DOM与diff算法](8943802.md)
