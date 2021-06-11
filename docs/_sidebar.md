@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-06-10 11:16:31
+ * @LastEditTime: 2021-06-11 18:00:38
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -68,4 +68,5 @@
   - [顶层 await](69273403.md)
   - [前端异常捕获与上报](65934922.md)
   - [监控指标](9462942.md)
+  - [AST 的应用](9235683573.md)
 
