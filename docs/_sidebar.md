@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-06-11 18:00:38
+ * @LastEditTime: 2021-06-15 14:54:05
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -71,5 +71,8 @@
   - [监控指标](9462942.md)
   - [AST 的应用](9235683573.md)
   - [LRU缓存置换算法](636578357.md)
+  - [pub/sub在前端中的应用](195483764.md)
+  - [React SSR服务端同构渲染](92374982374.md)
+  
   
 
