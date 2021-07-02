@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-06-15 14:54:05
+ * @LastEditTime: 2021-06-17 14:10:28
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -64,6 +64,7 @@
 - 音视频
   - [音视频大小的计算方式](402742734.md)
   - [流媒体](962836925.md)
+  - [blob 播放](632865845.md)
 
 - 工程化
   - [Tree-Shaking性能优化](684647234.md)
