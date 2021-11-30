@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-11-26 10:39:42
+ * @LastEditTime: 2021-11-30 14:52:25
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -87,3 +87,4 @@
   - [pub/sub 在前端中的应用](195483764.md)
   - [React SSR 服务端同构渲染](92374982374.md)
   - [Git 各指令的本质](74386313.md)
+  - [Babel 的本质与配置](569795345.md)
