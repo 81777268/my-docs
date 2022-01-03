@@ -1,8 +1,8 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2021-11-30 14:52:25
- * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2022-01-03 12:57:58
+ * @LastEditors: xl
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
 -->
@@ -77,6 +77,7 @@
   - [WebRTC ](42523455.md)
 
 * 工程化
+
   - [Tree-Shaking 性能优化](684647234.md)
   - [require 和 import 的区别](7203470234.md)
   - [顶层 await](69273403.md)
@@ -89,3 +90,7 @@
   - [Git 各指令的本质](74386313.md)
   - [Babel 的本质与配置](569795345.md)
   - [跨平台方案、跨端引擎的构成](927945234.md)
+
+* Server
+
+  - [Nginx 在前端的应用和优化](4234234.md)
