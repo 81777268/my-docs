@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2022-01-03 12:57:58
+ * @LastEditTime: 2022-01-22 18:27:48
  * @LastEditors: xl
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -15,8 +15,14 @@
   - [JS 浏览器事件循环机制](1969836432.md)
 
 - 工具
+
   - [Webpack 的组成部分详解](6958275945.md)
   - [webpack 的 externals](29386893.md)
+
+- 数据结构
+
+  - [bitMap](19361152.md)
+
 - CSS
 
   - [首次绘制的一系列动作](92645987593.md)
