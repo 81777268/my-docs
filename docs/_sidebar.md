@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-15 14:11:00
- * @LastEditTime: 2022-01-22 18:27:48
+ * @LastEditTime: 2022-01-25 11:15:43
  * @LastEditors: xl
  * @Description: In User Settings Edit
  * @FilePath: /my-docs/docs/_sidebar.md
@@ -68,6 +68,7 @@
   - [v8 内存管理和垃圾回收机制](926348643.md)
   - [Nodejs 定时任务](546923864.md)
   - [Nodejs EventLoop](6598658345.md)
+  - [Nodejs 进程间通讯](7891314445.md)
 
 - 移动端
 
